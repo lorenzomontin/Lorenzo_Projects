@@ -1,3 +1,5 @@
 # Lorenzo_Projects
-Personal projects and university assignments. For any question, feel free to contact me: montinlorenzo3@gmail.com
+Collection of personal projects and university assignments in SQL, Python, Power BI, and machine learning.  
+For any questions, feel free to contact me: montinlorenzo3@gmail.com
+
 
